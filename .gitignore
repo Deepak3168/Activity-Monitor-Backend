@@ -2,4 +2,4 @@ monitor/*
 migrations/*
 instance/*
 __pycache__/*
-
+.env
